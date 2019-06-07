@@ -1,0 +1,14 @@
+[
+  {
+    "platformVersion": "0.x",
+    "targetNativeDependencies": [
+    ],
+    "targetJsDependencies": []
+  },
+  {
+    "platformVersion": "1000.0.0",
+    "targetNativeDependencies": [
+    ],
+    "targetJsDependencies": []
+  }
+]
